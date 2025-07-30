@@ -20,8 +20,10 @@ Backend: MySQL
 
 Database Connector: mysql-connector-python
 
-## ScreenShot
+## ScreenShots
 <a href ="https://github.com/J4skaran/Bank-Management-System/blob/main/output/atm1.png">ATM</a>
+<a href ="https://github.com/J4skaran/Bank-Management-System/blob/main/output/atm2.png"> Mini Statement<a/>
+<a href ="https://github.com/J4skaran/Bank-Management-System/blob/main/output/atm3.png">Withdraw</a>
 
 
 
