@@ -21,6 +21,8 @@ Backend: MySQL
 Database Connector: mysql-connector-python
 
 ## ScreenShot
+<a href ="https://github.com/J4skaran/Bank-Management-System/blob/main/output/atm1.png">ATM</a>
+
 
 
 
